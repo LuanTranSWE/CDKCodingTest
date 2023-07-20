@@ -1,0 +1,17 @@
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.deps.json
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.runtimeconfig.json
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Infrastructure.pdb
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Core.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\bin\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.csproj.CopyComplete
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\refint\DotnetCoding.Infrastructure.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.pdb
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\DotnetCoding.Infrastructure.genruntimeconfig.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Infrastructure\obj\Debug\net6.0\ref\DotnetCoding.Infrastructure.dll

@@ -1,0 +1,12 @@
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\bin\Debug\net6.0\DotnetCoding.Core.deps.json
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\bin\Debug\net6.0\DotnetCoding.Core.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\bin\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.csproj.AssemblyReference.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.AssemblyInfoInputs.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.AssemblyInfo.cs
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.csproj.CoreCompileInputs.cache
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\refint\DotnetCoding.Core.dll
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\DotnetCoding.Core.pdb
+C:\Users\luant\OneDrive\Desktop\DotnetCoding\DotnetCoding.Core\obj\Debug\net6.0\ref\DotnetCoding.Core.dll
